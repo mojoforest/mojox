@@ -1,0 +1,340 @@
+{
+	"crosspromo": {
+		"ver": "1",
+		"metadata": {
+			"appwallheader" : {
+				"en": "Play our other games!",
+				"zh-cn": "玩我们其他游戏！",
+				"zh-tw": "玩我們其他遊戲！",
+				"ko": "다른 게임도 즐겨보세요!",
+				"ja": "当社の提供する、他のゲームをお試しください！",
+				"de": "Spiele unsere anderen Spiele!",
+				"es": "¡Juega nuestros otros juegos!",
+				"ru": "Попробуй другие наши игры!",
+				"fr": "Jouez à nos autres jeux!"
+			}
+		},
+		"titles": [
+			{
+				"ver": "1",
+				"uid": "mojobeyondfourteen",
+				"name": {
+					"en": "Beyond 14",
+					"zh-cn": "超越14",
+					"zh-tw": "超越14",
+					"ja": "ビヨンド14",
+					"ko": "비욘드14"
+				},
+				"appbundle": {
+					"ios": "com.mojoforest.beyondfourteen",
+					"android": "com.mojoforest.beyondfourteen"
+				},
+				"customurl": {
+					"ios": "mojobeyondfourteen://",
+					"android": null
+				},
+				"metadata": {
+					"shortdesc": {
+						"en": "Can you go beyond 14?",
+						"zh-cn": "您能超越14吗？",
+						"zh-tw": "您能超越14吗？",
+						"ja": "あなたは14を越えられますか？",
+						"ko": "14를넘길수있겠습니까?",
+						"de": "Schaffst du es jenseits von 14 zu kommen?"
+					},
+					"timebetweenint": 16,
+					"statusbadge": "hot",
+					"adpriorityint": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					],
+					"adprioritywall": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					]
+				},
+				"appicon": {
+					"ios": "https://mojoforest.github.io/mojox/creatives/appicon_beyond14.png",
+					"android": "https://mojoforest.github.io/mojox/creatives/appicon_beyond14.png"
+				},
+				"staticportrait": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_BEYOND14_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_BEYOND14_GP.png?v=1"
+					}
+				},
+				"staticlandscape": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_BEYOND14_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_BEYOND14_GP.png?v=1"
+					}
+				},
+				"url": {
+					"ios": "https://beyond14.app.link?feature=mojox",
+					"android": "https://beyond14.app.link?feature=mojox"
+				}
+			},
+
+			{
+				"ver": "1",
+				"uid": "mojotwofuse",
+				"name": {
+					"en": "2Fuse"
+				},
+				"appbundle": {
+					"ios": "com.mojoforest.2fuse",
+					"android": "com.mojoforest.twofuse"
+				},
+				"customurl": {
+					"ios": "mojotwofuse://",
+					"android": null
+				},
+				"metadata": {
+					"shortdesc": {
+						"en": "Finger busting arcade action!"
+					},
+					"timebetweenint": 16,
+					"adpriorityint": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					],
+					"adprioritywall": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					]
+				},
+				"appicon": {
+					"ios": "https://mojoforest.github.io/mojox/creatives/appicon_2fuse.png",
+					"android": "https://mojoforest.github.io/mojox/creatives/appicon_2fuse.png"
+				},
+				"staticportrait": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_2FUSE_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_2FUSE_GP.png?v=1"
+					}
+				},
+				"staticlandscape": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_2FUSE_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_2FUSE_GP.png?v=1"
+					}
+				},
+				"url": {
+					"ios": "https://2fuse.app.link?feature=mojox",
+					"android": "https://2fuse.app.link?feature=mojox"
+				}
+			},
+
+			{
+				"ver": "1",
+				"uid": "mojogroo",
+				"name": {
+					"en": "GROO"
+				},
+				"appbundle": {
+					"ios": "com.mojoforest.groo",
+					"android": "com.mojoforest.groo"
+				},
+				"customurl": {
+					"ios": "mojogroo://",
+					"android": null
+				},
+				"metadata": {
+					"shortdesc": {
+						"en": "How many can you GROO?"
+					},
+					"timebetweenint": 16,
+					"statusbadge": "new",
+					"adpriorityint": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					],
+					"adprioritywall": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					]
+				},
+				"appicon": {
+					"ios": "https://mojoforest.github.io/mojox/creatives/appicon_groo.png",
+					"android": "https://mojoforest.github.io/mojox/creatives/appicon_groo.png"
+				},
+				"staticportrait": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_GROO_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_GROO_GP.png?v=1"
+					}
+				},
+				"staticlandscape": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_GROO_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_GROO_GP.png?v=1"
+					}
+				},
+				"url": {
+					"ios": "https://groo.app.link?feature=mojox",
+					"android": "https://groo.app.link?feature=mojox"
+				}
+			},
+
+			{
+				"ver": "1",
+				"uid": "mojoredblue",
+				"name": {
+					"en": "Red Blue Challenge"
+				},
+				"appbundle": {
+					"ios": "com.mojoforest.redbluechallenge",
+					"android": "com.mojoforest.redbluechallenge"
+				},
+				"customurl": {
+					"ios": "mojoredblue://",
+					"android": null
+				},
+				"metadata": {
+					"shortdesc": {
+						"en": "Take the Red Blue Challenge now!"
+					},
+					"timebetweenint": 16,
+					"adpriorityint": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					],
+					"adprioritywall": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					]
+				},
+				"appicon": {
+					"ios": "https://mojoforest.github.io/mojox/creatives/appicon_redblue.png",
+					"android": "https://mojoforest.github.io/mojox/creatives/appicon_redblue.png"
+				},
+				"staticportrait": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_REDBLUE_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_REDBLUE_GP.png?v=1"
+					}
+				},
+				"staticlandscape": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_REDBLUE_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_REDBLUE_GP.png?v=1"
+					}
+				},
+				"url": {
+					"ios": "https://redblue.app.link?feature=mojox",
+					"android": "https://redblue.app.link?feature=mojox"
+				}
+			},
+
+			{
+				"ver": "1",
+				"uid": "mojodobu",
+				"name": {
+					"en": "Dobu: Furry Fighters",
+					"zh-cn": "多布：茸毛战士",
+					"zh-tw": "多布：茸毛戰士",
+					"ja": "ドブ：フワフワ戦士",
+					"ko": "동물의: 털북숭이 전사들"
+				},
+				"appbundle": {
+					"ios": "com.mojoforest.dobu",
+					"android": "com.mojoforest.dobu"
+				},
+				"customurl": {
+					"ios": "mojodobu://",
+					"android": null
+				},
+				"metadata": {
+					"shortdesc": {
+						"en": "Dobu Kingdom is in danger! Dobu fighters assemble!",
+						"zh-cn": "多布王国处于危险之中！茸毛战士们集合！",
+						"zh-tw": "多布王國處於危險之中！茸毛戰士們集合！",
+						"ja": "ドブ王国に危機が迫っています！ドブ戦士達を集めて戦いましょう！",
+						"ko": "동물의 왕국을이 위험에 처해 있습니다! 동물의 전사들을 소집하세요!",
+						"de": "Das Königreich Dobu ist in Gefahr! Dobu-Kämpfer versammelt euch!"
+					},
+					"timebetweenint": 16,
+					"statusbadge": "new",
+					"adpriorityint": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					],
+					"adprioritywall": [
+						{ "mojodobu": 12 },
+						{ "mojogroo": 11 },
+						{ "mojoredblue": 10 },
+						{ "mojobeyondfourteen": 9 },
+						{ "mojotwofuse": 8 }
+					]
+				},
+				"appicon": {
+					"ios": "https://mojoforest.github.io/mojox/creatives/appicon_dobu.png",
+					"android": "https://mojoforest.github.io/mojox/creatives/appicon_dobu.png"
+				},
+				"staticportrait": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_DOBU_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_DOBU_GP.png?v=1"
+					}
+				},
+				"staticlandscape": {
+					"ios": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_DOBU_iOS.png?v=1"
+					},
+					"android": {
+						"en": "https://mojoforest.github.io/mojox/creatives/interstitial_DOBU_GP.png?v=1"
+					}
+				},
+				"url": {
+					"ios": "https://dobu.app.link?feature=mojox",
+					"android": "https://dobu.app.link?feature=mojox"
+				}
+			}
+		]
+	}
+}
